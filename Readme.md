@@ -20,7 +20,6 @@
 we created model about disater management in any disaster user can see the shortest path to reach safe place. this model helps goverment to save pepoles  and save thousansds lifes
 ## Tech Stack 💻
 
-
 1. Programming Language:
 
 Python: You'll use Python as the primary programming language for building the application.
@@ -37,11 +36,6 @@ krish,faces a sudden a wild fire threat in his area. He urgently accesses our we
 **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
 * [More technologies/tools used]
 
-
-## Project Features and Functionality ✨
-"
-
-
 ## How It Works 🛠️
 our model works with python and tkinter.our graphical user interface provides the service to select your location from the drop down list given below after that when the user clicks onn the "show root button" which shows the shortest path to the safe place from the location mentioned by the user. it also shows the kilometers,user is away frome the safe place we also have the menu button which has varitys of options like exit.
 
@@ -57,12 +51,11 @@ Data Aggregation: Use data aggregation techniques to consolidate information fro
 Cloud Infrastructure: Host your system on cloud platforms like AWS, Azure, or Google Cloud, which offer auto-scaling capabilities. This allows your system to automatically allocate more resources during high traffic periods.
 Offline Mode: Develop an offline mode for your application. Allow users to download essential data for offline use, such as maps and emergency instructions. Users can access this data when network connectivity is compromised.
 ## Future Enhancements 🚧
-
+Our project proposes a novel approach by applying shortest path algorithms to optimize the process of rescuing people during disasters. We utilize advanced geographical information systems (GIS) and real-time data to calculate the shortest and most efficient routes for first responders to reach individuals in distress. By taking into account various factors, including road conditions, traffic, and the location of disaster victims, our algorithm provides a dynamic and adaptable solution.
 
 ## Screenshots and Demos 📸
-![Uploading fc.jpg…]()
-![fc](https://github.com/bhavy1233/Data-Sonic/assets/146067500/cfdb09e7-8bcf-4987-bb5b-d5c421d1a7a2)![fc](https://github.com/bhavy1233/Data-Sonic/assets/146067500/66e722cf-0a32-4fd9-9603-bdf66b6b8af3)
 
+![fc](https://github.com/bhavy1233/Data-Sonic/assets/146067500/cfdb09e7-8bcf-4987-bb5b-d5c421d1a7a2)!
 
 
 ## Acknowledgments 🙌
