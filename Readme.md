@@ -1,4 +1,4 @@
-![fc](https://github.com/bhavy1233/Data-Sonic/assets/146067500/cfdb09e7-8bcf-4987-bb5b-d5c421d1a7a2)![fc](https://github.com/bhavy1233/Data-Sonic/assets/146067500/66e722cf-0a32-4fd9-9603-bdf66b6b8af3)# Project Name: [Disaster management]
+# Project Name: [Disaster management]
 # PS Code : [SIH1468] 
 
 ## Team Name: Byte Builder/Model Magicians
@@ -61,7 +61,7 @@ Offline Mode: Develop an offline mode for your application. Allow users to downl
 
 ## Screenshots and Demos 📸
 ![Uploading fc.jpg…]()
-
+![fc](https://github.com/bhavy1233/Data-Sonic/assets/146067500/cfdb09e7-8bcf-4987-bb5b-d5c421d1a7a2)![fc](https://github.com/bhavy1233/Data-Sonic/assets/146067500/66e722cf-0a32-4fd9-9603-bdf66b6b8af3)
 
 
 
