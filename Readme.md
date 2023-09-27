@@ -1,15 +1,25 @@
-# Project Name: [Project's Name]
-# PS Code : [Problem Statement Code] 
+# Project Name: [Disaster management]
+# PS Code : [SIH1468] 
 
 ## Team Name: Byte Builder/Model Magicians
 - Team Members:
+- varun dodiya
+- jinal vasita
+- mahi patel
+- neel shah
+- kasis patel
+- bhavy gadhiya
 - Contact Email:
-
-
-## Project Overview 🚀
-Briefly describe the purpose and goals of our AI project. What problem does it solve? What's its significance? This section should provide an exciting introduction to our project.
-
+- dodiyavarun350@gmail.com
+- jinal.n.vasita@gmail.com
+- mahi2406.patel@gmail.com
+- neelshah18102004@gmail.com
+- kasispatel53@gmail.com
+- bhvyy19@gmail.com
+## Project Overview
+we created model about disater management in any disaster user can see the shortest path to reach safe place. this model helps goverment to save pepoles  and save thousansds lifes
 ## Tech Stack 💻
+
 
 Here are the technologies and tools we used to build our AI solution:
 
