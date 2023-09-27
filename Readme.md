@@ -59,7 +59,7 @@ Our project proposes a novel approach by applying shortest path algorithms to op
 
 
 ## Acknowledgments 🙌
-
+We would like to extend our heartfelt gratitude to all those who have contributed to the successful completion of this project on disaster management, specifically focusing on the development of a system that calculates the shortest path to a safe place from the user's location. This endeavor would not have been possible without the collective efforts, support, and expertise of numerous individuals and organizations.
 
 ## Get In Touch! 📬
 
