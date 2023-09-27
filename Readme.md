@@ -40,12 +40,16 @@ krish,faces a sudden a wild fire threat in his area. He urgently accesses our we
 our model works with python and tkinter.our graphical user interface provides the service to select your location from the drop down list given below after that when the user clicks onn the "show root button" which shows the shortest path to the safe place from the location mentioned by the user. it also shows the kilometers,user is away frome the safe place we also have the menu button which has varitys of options like exit.
 
 ## Challenges and Solutions 🧠
-CHALLENGES:
+
+# CHALLENGES:
+
 Data Accuracy and Availability: Obtaining accurate and up-to-date geographic and disaster-related data can be a significant challenge. This includes data on road networks, real-time disaster information, and safe places.
 Real-time Data Integration: Ensuring that your system can access and process real-time data about disasters (e.g., floods, earthquakes) is crucial. Integrating data from various sources and agencies can be complex.
 Scalability: Handling a large number of users during a disaster event can be overwhelming. Your system must be able to scale rapidly to accommodate increased traffic and user requests.
 Network Connectivity: During disasters, network infrastructure may be compromised. Ensuring that your system can work with intermittent or low-bandwidth connectivity is vital.
-SOLUTIONS:
+
+# SOLUTIONS:
+
 Collaborate with Authorities: Partner with government agencies, meteorological organizations, and disaster management authorities to access authoritative and up-to-date data sources. Implement data quality checks and validation algorithms to filter out erroneous or outdated information. Regularly update your data sources to ensure accuracy.
 Data Aggregation: Use data aggregation techniques to consolidate information from multiple sources into a unified format. This simplifies the integration process and ensures consistency.
 Cloud Infrastructure: Host your system on cloud platforms like AWS, Azure, or Google Cloud, which offer auto-scaling capabilities. This allows your system to automatically allocate more resources during high traffic periods.
