@@ -66,7 +66,7 @@ We would like to extend our heartfelt gratitude to all those who have contribute
 
 | Team Member | LinkedIn | Kaggle | Email |
 |---|---|---|---|
-| Naqibahmed Kadri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/) | [![Kaggle](https://img.shields.io/badge/Kaggle-%2320B2AA.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/nakibahmedkadri) | [naqibahmedkadri@gmail.com](mailto:naqibahmedkadri@gmail.com) |
+| Neel sh\ah | | [neelshah18102004@gmail.com](mailto:neelshah18102004@gmail.com) |
 
 
 
