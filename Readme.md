@@ -64,9 +64,9 @@ We would like to extend our heartfelt gratitude to all those who have contribute
 ## Get In Touch! 📬
 
 
-| Team Member | LinkedIn | Kaggle | Email |
-|---|---|---|---|
-| Neel sh\ah | | [neelshah18102004@gmail.com](mailto:neelshah18102004@gmail.com) |
+| Team Member | Email |
+|---|---|
+| Neel shah | [neelshah18102004@gmail.com](mailto:neelshah18102004@gmail.com) |
 
 
 
